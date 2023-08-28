@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504655260947",
+    "project_id": "travelappghita",
+    "storage_bucket": "travelappghita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504655260947:android:ea6f18c6d9b7067ce77ee6",
+        "android_client_info": {
+          "package_name": "com.GhitaB.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504655260947-mr50u55cb06qjv8stoqqbd2129ncu874.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKXMlNc4QbWy2E44GzH8bx7GJw28Emow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504655260947-mr50u55cb06qjv8stoqqbd2129ncu874.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
